@@ -51,7 +51,7 @@ $ npm run test
 
 ## API Documentation
 
-Explore the API endpoints and their usage in the provided Postman collection. [Postman Documentation Link]([YOUR_POSTMAN_LINK](https://documenter.getpostman.com/view/36213830/2sAYJ7hzWW))
+Explore the API endpoints and their usage in the provided Postman collection. [Postman Documentation Link](https://documenter.getpostman.com/view/36213830/2sAYJ7hzWW](https://documenter.getpostman.com/view/36213830/2sAYJ7hzWW))
 
 ## GitHub Repository
 
