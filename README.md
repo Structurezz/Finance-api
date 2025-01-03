@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Structurezz/Finance-api" target="blank"><img src="YOUR_LOGO_URL" width="120" alt="Finance API Logo" /></a>
+  <a href="https://github.com/Structurezz/Finance-api" target="blank"><img src="[YOUR_LOGO_URL](https://img.freepik.com/free-vector/finance-financial-performance-concept-illustration_53876-40450.jpg)" width="120" alt="Finance API Logo" /></a>
 </p>
 
 <p align="center">
@@ -57,5 +57,5 @@ You can find the code repository here: [GitHub Repository](https://github.com/St
 ## License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-```
+
 
