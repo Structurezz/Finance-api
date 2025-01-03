@@ -1,6 +1,5 @@
 
 
-```markdown
 <p align="center">
   <a href="https://github.com/Structurezz/Finance-api" target="blank"><img src="YOUR_LOGO_URL" width="120" alt="Finance API Logo" /></a>
 </p>
